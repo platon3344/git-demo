@@ -1,4 +1,2 @@
-a = 2
-
-b = 1 
-c = b
+a = 1
+#i went back change one 
